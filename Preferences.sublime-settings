@@ -1,0 +1,17 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "courier new",
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"DevDocs",
+		"BracketHighlighter",
+		"Gist",
+		"sublime_package_control-master"
+	],
+	"word_wrap": true
+}

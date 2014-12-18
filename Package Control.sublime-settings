@@ -1,0 +1,36 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS",
+		"AutoSelect",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Snippets",
+		"CSSLint",
+		"CSSTidy",
+		"D3.js Snippets",
+		"DevDocs",
+		"Emmet",
+		"emmet-for-php-and-wordpress",
+		"Gist",
+		"Github Tools",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Snippets",
+		"jQuery Snippets pack",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Package Syncing",
+		"Project Sync",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime_package_control-master"
+	]
+}
